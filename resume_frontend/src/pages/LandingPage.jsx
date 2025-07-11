@@ -87,7 +87,7 @@ const LandingPage = () => {
                     </div>
                   </div>
                   <div className="ml-4">
-                    <h4 className="font-bold">John Doe</h4>
+                    <h4 className="font-bold">Faiz Khan</h4>
                     <p>Software Engineer</p>
                   </div>
                 </div>
@@ -110,7 +110,7 @@ const LandingPage = () => {
                     </div>
                   </div>
                   <div className="ml-4">
-                    <h4 className="font-bold">Jane Smith</h4>
+                    <h4 className="font-bold">Aditya Dwivedi </h4>
                     <p>Marketing Specialist</p>
                   </div>
                 </div>

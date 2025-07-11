@@ -16,7 +16,7 @@ class ResumeAiBackendApplicationTests {
 	@Test
 	void contextLoads() throws IOException {
 
-		resumeService.generateResumeResponse("I am durgesh tiwari with 2 year of java exp .");
+		resumeService.generateResumeResponse("I am Anish Ahamad, I am a Full Stack Developer.");
 	}
 
 }
